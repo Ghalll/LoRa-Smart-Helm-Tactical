@@ -1,1 +1,2 @@
-# Transmitter_LoRa_Smart_Helm_Tactical-
+# Smart Helm for Army
+# data flow use gateway send to BMS
